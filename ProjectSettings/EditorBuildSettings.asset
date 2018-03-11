@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mainMenu.unity
+    guid: d2a8ec26eaf74334c84778a798faa8fc
+  - enabled: 1
+    path: Assets/line.unity
+    guid: a9fa877a7dbcc774ea954a5c1a68b4fc
+  - enabled: 0
+    path: 
+    guid: 7586ff33481576942a261fc2e4464936
+  - enabled: 1
+    path: Assets/emptyScene.unity
+    guid: 1662fc03784a0fa429000df2ba9f38cd
+  - enabled: 1
+    path: Assets/oProjekcie.unity
+    guid: ba399b6332a3e364a9cc130526de81dd
+  - enabled: 1
+    path: Assets/lineReloadM.unity
+    guid: f317091280018de488dab32753e7b765
+  - enabled: 1
+    path: Assets/oNas.unity
+    guid: 1a57c8c8df558be4c8e99cf75a8bf673
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_next.unity
+    guid: aed4b3bf220f4d44f853fbbc38c3693f
+  - enabled: 1
+    path: Assets/explore_gestures.unity
+    guid: abbca1c0e8fe81c4283752098dc2fc62
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_prev.unity
+    guid: 139561b60de6b3a488efb48ed1c24e20
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_start_stop.unity
+    guid: 6b4387f20bf0ca9488cc25a0be6f63c4
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_zoom_in.unity
+    guid: bef47612c83ef4d44806a76fd7e47c40
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_zoom_out.unity
+    guid: 68dc9448072779d46a5674d5dc5b7e83
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_left.unity
+    guid: 9db769f4a2610be48a780d9c01ec6d9f
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_right.unity
+    guid: eb735dba5ec080a4083bc5c9605bc1b2
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_scroll_down.unity
+    guid: 4287d80a5539d924e9a39edce9a1f537
+  - enabled: 1
+    path: Assets/Gestures_Video_Scenes/gesture_scroll_up.unity
+    guid: 77c89b9141a97e74fa4d95c010332bb7
+  - enabled: 1
+    path: Assets/lineReloadK.unity
+    guid: a42a6028cc24b1b44bda9ec6f0effae1

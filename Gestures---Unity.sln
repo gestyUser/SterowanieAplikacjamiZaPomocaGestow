@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestures---Unity.Plugins", "Gestures---Unity.Plugins.csproj", "{3B34320E-8121-5B3C-6E62-FCED8932F9A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestures---Unity", "Gestures---Unity.csproj", "{3719D168-471D-226A-C1C1-714F2C917DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestures---Unity.Editor.Plugins", "Gestures---Unity.Editor.Plugins.csproj", "{925531D1-0351-652E-0386-5DDA00C82B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestures---Unity.Editor", "Gestures---Unity.Editor.csproj", "{6D298FB3-5B44-9E3D-1757-D03B1BAB5E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B34320E-8121-5B3C-6E62-FCED8932F9A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B34320E-8121-5B3C-6E62-FCED8932F9A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B34320E-8121-5B3C-6E62-FCED8932F9A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B34320E-8121-5B3C-6E62-FCED8932F9A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3719D168-471D-226A-C1C1-714F2C917DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3719D168-471D-226A-C1C1-714F2C917DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3719D168-471D-226A-C1C1-714F2C917DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3719D168-471D-226A-C1C1-714F2C917DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925531D1-0351-652E-0386-5DDA00C82B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925531D1-0351-652E-0386-5DDA00C82B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925531D1-0351-652E-0386-5DDA00C82B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925531D1-0351-652E-0386-5DDA00C82B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D298FB3-5B44-9E3D-1757-D03B1BAB5E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D298FB3-5B44-9E3D-1757-D03B1BAB5E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D298FB3-5B44-9E3D-1757-D03B1BAB5E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D298FB3-5B44-9E3D-1757-D03B1BAB5E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
